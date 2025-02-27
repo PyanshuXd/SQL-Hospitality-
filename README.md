@@ -9,7 +9,10 @@ Hospitals are the most important part of our lives, trying to provide the best m
 - Managing hospitality services, including room bookings, patients’ management, room allocations, and payments, often involves handling large volumes of data.
 - Many small to medium-sized hospitals struggle with manual data management, leading to errors, double bookings, and poor patients’ service.
 - This project aims to streamline operations by implementing an SQL-based system to manage all aspects of hospitality services efficiently.
-
+  
+ ![Objectives](https://github.com/PyanshuXd/SQL-Hospitality-/blob/a12c9e4743da054ef4ed7e83caa8c4f33a384d5a/Images%20Used/Objective.webp)
+ 
 ## Objectives:
 - The objective of this project is to design and develop an SQL-based Hospitality Management System that simplifies booking, room allocation, billing, and patients’ relationship management.
 - The system will ensure data consistency, reduce human errors, and provide quick access to critical information for better decision-making.
+  
